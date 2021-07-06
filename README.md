@@ -2,7 +2,7 @@
 
 
 ### Tools 
-- [Frontend-React-Rate-Product netlify](https://only-frontend-react-rate-product.netlify.app/home)
+- [Frontend-React-Rate-Product netlify](https://frontend-react-rate-product.netlify.app)
  I used  React, JavaScript, css.
 
 
