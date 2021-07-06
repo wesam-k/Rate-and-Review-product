@@ -1,4 +1,4 @@
-#  **Frontend React JS rate App**
+#  **Frontend React JS Rate-App**
 
 
 ### Tools 
